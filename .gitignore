@@ -1,0 +1,54 @@
+# Dependency directories
+node_modules/
+.vscode
+#Jest
+coverage
+jest-stare
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+# .env
+
+# Gatsby files
+.cache/
+
+# TernJS port file
+.tern-port
+
+# package-lock.json
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.DS_Store
+
+# Public files 
+
+# public/upload
+public/upload
+
+
+# Public Course
+public/course
+
+#Logger Files
+public/logger/
+
+#Database Backup folder
+public/backup
+
+.scannerwork
+sonar-project.properties
