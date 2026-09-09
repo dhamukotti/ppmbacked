@@ -2,7 +2,7 @@
 DB_SERVER_IP = '103.235.104.111'
 DB_USER_NAME = 'usr_ppmuat'
 DB_PASSWORD = 'RYtVj3xjj0yq7%!o'
-DB_NAME = 'PPMUAT'
+DB_NAME = 'PPMUAT's
 
 # Server configuration
 NODE_ENV = "production"
