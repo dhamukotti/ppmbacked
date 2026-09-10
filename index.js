@@ -115,4 +115,4 @@ server.listen(PORT, () => {
   console.log(`Listening on port ${process.env.BASE_URL}`)
 })
 
-module.exports.app = app
+module.exports = app
