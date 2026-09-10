@@ -1,0 +1,52 @@
+html{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100dvh;
+    justify-content: center;
+    background-color: #f5f5f5;
+    align-items: center;
+    gap: 20px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.main-container {
+    background-color: white;
+    border-radius: 15px;
+    /* box-shadow: 0px 0px 10px 8px rgba(0, 0, 0, 0.5) 0px 0px 10px 8px rgba(0, 0, 0, 0.5); */
+    box-shadow: 0px 4px 14px rgba(0,0,0,0.15);
+    padding-inline: 30px;
+
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+    gap: 30px
+}
+
+.img-container {
+    padding-top: 30px;
+    display: flex;
+}
+
+.man-logo {
+    bottom: 0;
+    width: 100px;
+    height: auto;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
